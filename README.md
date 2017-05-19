@@ -1,7 +1,7 @@
 # aCGHarraySubtractControlHG19
 Shell script which allowed to remove european polymorphism in CNV and annotate genomic intervals on HG19 after subtracting genomic intervals of control condition
 
-This script needs the installation of Bedtools utilities in the OS environement. This script also needs dependencies of installing 5 annotation databases in the subfolder DATABASES_HG19:
+This script needs the installation of Bedtools utilities in the OS environement. This script also needs dependencies: installing 5 annotation databases in the subfolder DATABASES_HG19:
 
    - hg19GENEname_sorted.bed: Refseq HG19 annotations
    - scandbHG19CEU_sorted.bed: CNV polymorphisms in european population, data derived from http://www.scandb.org/ website
