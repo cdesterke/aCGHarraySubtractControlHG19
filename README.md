@@ -5,9 +5,9 @@ This script needs the installation of Bedtools utilities in the OS environement.
 
    - hg19GENEname_sorted.bed: Refseq HG19 annotations
    - scandbHG19CEU_sorted.bed: CNV polymorphisms in european population, data derived from http://www.scandb.org/ website
-   - plurinetHG18_sorted.bed: genes that are characterized as belonging to a pluripotency network (PLURINET DB)
+   - plurinetHG19_sorted.bed: genes that are characterized as belonging to a pluripotency network (PLURINET DB)
    - CosmicHG19_sorted.bed: genes presenting somatic alteration in cancer and leukemia
-   - TFHG18.bed: census database of molecules classed as transcription factor
+   - TFHG19.bed: census database of molecules classed as transcription factor
 
 Script needs to be execute in BASH environnement with previous dependencies.
 
